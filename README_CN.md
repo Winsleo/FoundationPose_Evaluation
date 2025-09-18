@@ -61,12 +61,14 @@ python mesh_utils.py -i input_mesh.obj -o output_mesh.obj --size <size along the
 
 <div align="center">
   <figure style="display:inline-block;margin:0 8px;text-align:center;">
-    <img src="images/uniformed_size.gif" alt="uniformed_size" width="60%">
     <figcaption>输入归一化的参考 mesh 模型（无真实尺度）</figcaption>
+    <video src="https://github.com/user-attachments/assets/afb7548f-dec5-42e0-ac96-f68508134305" width="60%" autoplay muted loop playsinline controls poster="images/posters/uniformed_size.jpg"></video>
+    <br>
   </figure>
   <figure style="display:inline-block;margin:0 8px;text-align:center;">
-    <img src="images/real_size.gif" alt="real_size" width="60%">
     <figcaption>输入真实尺度的参考 mesh 模型</figcaption>
+    <video src="https://github.com/user-attachments/assets/828ab75d-b6e6-46b3-949a-f23a7986d6cf" width="60%" autoplay muted loop playsinline controls poster="images/posters/real_size.jpg"></video>
+    <br>
   </figure>
   
 </div>
@@ -78,12 +80,14 @@ python mesh_utils.py -i input_mesh.obj -o output_mesh.obj --size <size along the
 
 <div align="center">
   <figure style="display:inline-block;margin:0 8px;text-align:center;">
-    <img src="images/no_occlusion_similar.gif" alt="no_occlusion_similar" width="60%">
     <figcaption>相似物体</figcaption>
+    <video src="https://github.com/user-attachments/assets/a5930412-c449-43ce-951c-cbae3052ab23" width="60%" autoplay muted loop playsinline controls poster="images/posters/no_occlusion_similar.jpg"></video>
+    <br>
   </figure>
   <figure style="display:inline-block;margin:0 8px;text-align:center;">
-    <img src="images/no_occlusion_same.gif" alt="no_occlusion_same" width="60%">
     <figcaption>相同物体</figcaption>
+    <video src="https://github.com/user-attachments/assets/676d984c-ed7f-447e-806f-2a0a21a2c393" width="60%" autoplay muted loop playsinline controls poster="images/posters/no_occlusion_same.jpg"></video>
+    <br>
   </figure>
   
 </div>
@@ -94,16 +98,19 @@ python mesh_utils.py -i input_mesh.obj -o output_mesh.obj --size <size along the
 
 <div align="center">
   <figure style="display:inline-block;margin:0 6px;text-align:center;">
-    <img src="images/occlusion_similar.gif" alt="occlusion_similar" width="60%">
     <figcaption>相似物体遮挡</figcaption>
+    <video src="https://github.com/user-attachments/assets/69a8655a-5bf7-440d-adb4-0f1a9b8f7b06" width="60%" autoplay muted loop playsinline controls poster="images/posters/occlusion_similar.jpg"></video>
+    <br>
   </figure>
   <figure style="display:inline-block;margin:0 6px;text-align:center;">
-    <img src="images/occlusion_same1.gif" alt="occlusion_same1" width="60%">
     <figcaption>相同物体遮挡1</figcaption>
+    <video src="https://github.com/user-attachments/assets/336798cd-f437-4a66-bf24-8e6a297b47ed" width="60%" autoplay muted loop playsinline controls poster="images/posters/occlusion_same1.jpg"></video>
+    <br>
   </figure>
   <figure style="display:inline-block;margin:0 6px;text-align:center;">
-    <img src="images/occlusion_same2.gif" alt="occlusion_same2" width="60%">
     <figcaption>相同物体遮挡2</figcaption>
+    <video src="https://github.com/user-attachments/assets/cd4c5ac8-e83c-4c25-91c2-8b3fd2996747" width="60%" autoplay muted loop playsinline controls poster="images/posters/occlusion_same2.jpg"></video>
+    <br>
   </figure>
 </div>
 
